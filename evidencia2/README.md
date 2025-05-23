@@ -58,7 +58,6 @@ Todas las estadísticas se recalculan automáticamente al filtrar.
 
 - La búsqueda es dinámica y en tiempo real.
 - Si el campo de búsqueda está vacío, se muestran todos los productos.
-- Si no hay coincidencias, se muestra un mensaje adecuado.
 - Las estadísticas se actualizan en función de los resultados filtrados.
 
 ---
@@ -68,7 +67,6 @@ Todas las estadísticas se recalculan automáticamente al filtrar.
 - Se utilizaron clases de Tailwind CSS para aplicar un diseño simple.
 - Las estadísticas están separadas visualmente con fondo gris claro.
 - Las tarjetas de producto están organizadas en una grilla.
-- El código es claro, fácil de leer y apto para principiantes.
 
 
 

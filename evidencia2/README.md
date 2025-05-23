@@ -68,6 +68,12 @@ Todas las estadísticas se recalculan automáticamente al filtrar.
 - Las estadísticas están separadas visualmente con fondo gris claro.
 - Las tarjetas de producto están organizadas en una grilla.
 
+---
+
+🖼 Captura de pantalla
+
+![Captura del Proyecto](./screenshot1.png)
+
 
 
 
